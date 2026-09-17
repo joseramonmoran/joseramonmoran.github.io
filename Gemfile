@@ -4,6 +4,9 @@ source 'https://rubygems.org'
 # GitHub's built-in Pages builder, so we control the Jekyll version here.
 # Academic Pages targets Jekyll 4.
 gem 'jekyll', '~> 4.3'
+# Jekyll 4.4 ships jekyll-sass-converter 3 (dart-sass), which rejects the
+# libsass-era Susy/Breakpoint stylesheets this theme vendors. Stay on 2.x.
+gem 'jekyll-sass-converter', '~> 2.2'
 
 group :jekyll_plugins do
   gem 'jekyll-feed'
