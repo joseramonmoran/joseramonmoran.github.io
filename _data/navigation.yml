@@ -1,0 +1,11 @@
+# Order of the links in the site header.
+
+main:
+  - title: "Research"
+    url: /research/
+
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "CV"
+    url: /cv/

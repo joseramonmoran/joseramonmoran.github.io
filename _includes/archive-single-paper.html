@@ -1,0 +1,42 @@
+{% include base_path %}
+
+{% comment %} paperfile is a filename hosted at site.papersurl; paperurl is an absolute link. {% endcomment %}
+{% if post.paperurl %}
+  {% assign paper_link = post.paperurl %}
+{% elsif post.paperfile %}
+  {% assign paper_link = post.paperfile | prepend: "/" | prepend: site.papersurl %}
+{% else %}
+  {% assign paper_link = false %}
+{% endif %}
+
+<div class="list__item">
+  <article class="archive__item" itemscope itemtype="http://schema.org/ScholarlyArticle">
+    <h3 class="archive__item-title" itemprop="headline" style="margin-bottom: 0.25em;">
+      {% if paper_link %}
+        <a href="{{ paper_link }}">{{ post.title }}</a>
+      {% else %}
+        {{ post.title }}
+      {% endif %}
+    </h3>
+
+    {% if post.coauthors %}
+      <p class="page__meta" style="margin: 0 0 0.25em 0;">joint with {{ post.coauthors }}</p>
+    {% endif %}
+
+    {% if post.status %}
+      <p class="page__meta" style="margin: 0 0 0.5em 0;"><em>{{ post.status | markdownify | remove: "<p>" | remove: "</p>" }}</em></p>
+    {% endif %}
+
+    <div class="archive__item-excerpt" itemprop="description">
+      {{ post.content | markdownify }}
+    </div>
+
+    {% if paper_link or post.slidesurl %}
+      <p class="page__meta">
+        {% if paper_link %}<a href="{{ paper_link }}">Download paper</a>{% endif %}
+        {% if paper_link and post.slidesurl %} &middot; {% endif %}
+        {% if post.slidesurl %}<a href="{{ post.slidesurl }}">Slides</a>{% endif %}
+      </p>
+    {% endif %}
+  </article>
+</div>
