@@ -32,12 +32,23 @@ jobs:
         uses: actions/configure-pages@v5
 
       - name: Build with Jekyll
-        run: bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}" --trace
+        run: |
+          set -o pipefail
+          bundle exec jekyll build --baseurl "${{ steps.pages.outputs.base_path }}" --trace 2>&1 | tee /tmp/jekyll.log
         env:
           JEKYLL_ENV: production
 
-      - name: Upload artifact
-        uses: actions/upload-pages-artifact@v3
+      # Puts the real error on the run's summary page, which is readable
+      # without signing in. Remove this step once the build is green.
+      - name: Surface build failure
+        if: failure()
+        run: |
+          {
+            echo '## Jekyll build failure'
+            echo '```'
+            tail -n 60 /tmp/jekyll.log
+            echo '```'
+          } >> "$GITHUB_STEP_SUMMARY"
 
   deploy:
     needs: build
