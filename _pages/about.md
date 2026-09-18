@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Economist in the Research Department at [Banco de México](https://www.banxico.org.mx/). I hold a Ph.D. in Economics from the [University of Michigan](https://lsa.umich.edu/econ).
+Welcome to my website! I am a Research Economist in the Research Department at [Banco de México](https://www.banxico.org.mx/). I hold a Ph.D. in Economics from the [University of Michigan](https://lsa.umich.edu/econ).
 
 My research is in **international trade**, with a focus on how firms respond to trade policy. I work on rules of origin and preferential trade agreements, the structure of global supply chains, and how exporters learn about and enter foreign markets. Most of my empirical work uses transaction-level Mexican customs data, combined with quantitative models of input sourcing and export supply.
 
