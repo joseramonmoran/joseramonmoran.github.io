@@ -19,7 +19,7 @@ author_profile: true
   }
 </style>
 
-Some of my work at the Bank is policy analysis of Mexico's external sector. I monitor and analyze the evolution of trade in North America — such as the reconfiguration of global supply chains, the effects of tariff announcements and rising trade tensions, the degree of productive integration between Mexico and the United States, etc. — to inform the Bank's assessment of the external environment and its implications for the Mexican economy. Part of this analysis is published in the boxes of the Bank's Quarterly Report listed below. This policy work draws on the same tools as my academic research on firm-level trade, which you can find on the [research page]({{ site.baseurl }}/research/).
+Some of my work at the Bank is policy analysis of Mexico's external sector. I monitor and analyze the evolution of trade in North America — such as the reconfiguration of global value chains, the effects of tariff announcements and rising trade tensions, the degree of productive integration between Mexico and the United States, etc. — to inform the Bank's assessment of the external environment and its implications for the Mexican economy. Part of this analysis is published in the boxes of the Bank's Quarterly Report listed below. This policy work draws on the same tools as my academic research on firm-level trade, which you can find on the [research page]({{ site.baseurl }}/research/).
 
 <h2>Quarterly Report Boxes</h2><hr />
 
