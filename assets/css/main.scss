@@ -37,3 +37,28 @@
     "layout/sidebar",
     "layout/json_cv"
 ;
+
+/* ==========================================================================
+   CUSTOM OVERRIDES
+   Site-specific tweaks. Keep them here rather than editing the theme files
+   in _sass, so the theme can be updated without losing them.
+   ========================================================================== */
+
+/* Justify body copy. `hyphens` keeps justification from opening up ugly gaps
+   between words by allowing the browser to break long words at line ends. */
+.page__content p,
+.archive p,
+.archive__item-excerpt p {
+    text-align: justify;
+    -webkit-hyphens: auto;
+    hyphens: auto;
+}
+
+/* Titles and the coauthor / status lines stay flush left. */
+.page__title,
+.archive__item-title,
+.page__meta {
+    text-align: left;
+    -webkit-hyphens: manual;
+    hyphens: manual;
+}
