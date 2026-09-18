@@ -13,7 +13,7 @@ My research is in **international trade**, with a focus on how firms respond to 
 
 About me
 ======
-Before starting my Ph.D., I worked as a Junior Economist in the Research Department at Banco de México from 2013 to 2017. I earned an M.A. in Economic Theory and a B.A. in Economics from Instituto Tecnológico Autónomo de México (ITAM).
+Before starting my Ph.D., I worked as a Junior Economist in the Research Department at Banco de México from 2013 to 2017. I earned an M.A. in Economic Theory and a B.A. in Economics from [Instituto Tecnológico Autónomo de México](https://www.itam.mx/) (ITAM).
 
 You can reach me at [jmoran@banxico.org.mx](mailto:jmoran@banxico.org.mx), and my CV is [here]({{ site.papersurl }}/Moran_Jose_CV.pdf).
 
