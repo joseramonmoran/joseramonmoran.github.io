@@ -8,6 +8,4 @@ date: 2026-01-01
 location: "Mexico City, Mexico"
 ---
 
-Undergraduate course in industrial organization, taught as Instructor in Winter 2026.
-
 The course covers firm behavior under imperfect competition: market structure and concentration, pricing and product differentiation, entry and entry deterrence, vertical relationships, and the empirical methods used to estimate demand and measure market power. It closes with applications to competition policy and regulation.
