@@ -36,5 +36,3 @@ Boxes from the Bank's *Informe Trimestral* (Quarterly Report) that I have worked
 </ul>
 
 ---
-
-*The views expressed here are my own and do not necessarily reflect those of Banco de México.*
