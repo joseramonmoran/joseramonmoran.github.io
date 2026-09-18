@@ -34,6 +34,12 @@ Teaching
 ======
 Instructor at ITAM (Industrial Organization, Winter 2026) and Head Teaching Assistant at the University of Michigan. The [teaching page]({{ site.baseurl }}/teaching/) has the full list and my evaluations.
 
+Professional Service
+======
+* **Referee Service**, *IMF Economic Review*; *Latin American Economic Review*; Banco de México Working Papers Series
+* **Ph.D. Admissions Committee**, Department of Economics, University of Michigan, 2019 and 2020
+* ***Gaceta de Economía***, ITAM — Member of the Editorial Committee, later Co-Director of ITAM's student-led economics journal, 2014–2016
+
 Research Assistant Experience
 ======
 * **University of Michigan**
@@ -42,20 +48,11 @@ Research Assistant Experience
 * **Instituto Tecnológico Autónomo de México**
   * Research Assistant for Prof. Kensuke Teshima and Prof. Rahul Giri, 2012–2013
 
-Referee Service
-======
-*IMF Economic Review*; *Latin American Economic Review*; Banco de México Working Papers Series.
-
 Fellowships and Awards
 ======
 * Summer Research Fellowship, University of Michigan, Summers 2018 and 2019
 * Graduate Studies Fellowship, University of Michigan, 2017–2018
 * Graduate Studies Scholarship, Instituto Tecnológico Autónomo de México, 2014–2017
-
-Professional Service
-======
-* **Ph.D. Admissions Committee**, Department of Economics, University of Michigan, 2019 and 2020
-* ***Gaceta de Economía***, ITAM — Member of the Editorial Committee, later Co-Director of ITAM's student-led economics journal, 2014–2016
 
 Skills
 ======
