@@ -30,13 +30,5 @@
     <div class="archive__item-excerpt" itemprop="description">
       {{ post.content | markdownify }}
     </div>
-
-    {% if paper_link or post.slidesurl %}
-      <p class="page__meta">
-        {% if paper_link %}<a href="{{ paper_link }}">Download paper</a>{% endif %}
-        {% if paper_link and post.slidesurl %} &middot; {% endif %}
-        {% if post.slidesurl %}<a href="{{ post.slidesurl }}">Slides</a>{% endif %}
-      </p>
-    {% endif %}
   </article>
 </div>
