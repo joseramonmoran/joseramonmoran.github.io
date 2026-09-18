@@ -47,7 +47,9 @@
 /* Justify body copy. `hyphens` keeps justification from opening up ugly gaps
    between words by allowing the browser to break long words at line ends. */
 .page__content p,
+.page__content li,
 .archive p,
+.archive li,
 .archive__item-excerpt p {
     text-align: justify;
     -webkit-hyphens: auto;
