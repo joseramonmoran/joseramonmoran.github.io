@@ -64,3 +64,9 @@
     -webkit-hyphens: manual;
     hyphens: manual;
 }
+
+/* Remove the fixed footer bar (Follow / feed / theme credit). The MathJax
+   script in _includes/footer/custom.html still loads and runs. */
+.page__footer {
+    display: none;
+}
