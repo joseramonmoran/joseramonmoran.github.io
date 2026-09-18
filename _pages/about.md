@@ -8,17 +8,13 @@ redirect_from:
   - /about.html
 ---
 
-I am a Research Economist in the Research Department at [Banco de México](https://www.banxico.org.mx/). I hold a Ph.D. in Economics from the [University of Michigan](https://lsa.umich.edu/econ), and I am currently also an Instructor at [ITAM](https://economia.itam.mx/).
+I am a Research Economist in the Research Department at [Banco de México](https://www.banxico.org.mx/). I hold a Ph.D. in Economics from the [University of Michigan](https://lsa.umich.edu/econ).
 
-My research is in **international trade**, with a focus on how firms respond to trade policy. I work on rules of origin and preferential trade agreements, the structure of global supply chains, and how exporters learn about and enter foreign markets. Most of my empirical work uses firm- and transaction-level Mexican customs data, combined with quantitative models of input sourcing and export supply.
+My research is in **international trade**, with a focus on how firms respond to trade policy. I work on rules of origin and preferential trade agreements, the structure of global supply chains, and how exporters learn about and enter foreign markets. Most of my empirical work uses transaction-level Mexican customs data, combined with quantitative models of input sourcing and export supply.
 
 About me
 ======
-Before starting my Ph.D., I worked as a Junior Economist in the Research Department at Banco de México from 2013 to 2017. I also spent the summer of 2021 at the [International Monetary Fund](https://www.imf.org/), in the Western Hemisphere Department.
-
-I earned an M.A. in Economic Theory and a B.A. in Economics from Instituto Tecnológico Autónomo de México (ITAM), where I was a member of the editorial committee and later Co-Director of *Gaceta de Economía*, the school's student-led economics journal.
-
-I serve as a referee for the *IMF Economic Review*, the *Latin American Economic Review*, and the Banco de México Working Papers Series.
+Before starting my Ph.D., I worked as a Junior Economist in the Research Department at Banco de México from 2013 to 2017. I earned an M.A. in Economic Theory and a B.A. in Economics from Instituto Tecnológico Autónomo de México (ITAM).
 
 You can reach me at [jmoran@banxico.org.mx](mailto:jmoran@banxico.org.mx), and my CV is [here]({{ site.papersurl }}/Moran_Jose_CV.pdf).
 
