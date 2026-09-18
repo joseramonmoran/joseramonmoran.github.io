@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "José Ramón Morán"
 excerpt: "Research Economist at Banco de México."
 author_profile: true
 redirect_from:
