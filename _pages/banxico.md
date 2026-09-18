@@ -19,10 +19,6 @@ author_profile: true
   }
 </style>
 
-I am a Research Economist in the Research Department at [Banco de México](https://www.banxico.org.mx/), Mexico's central bank. I joined the department as a Junior Economist in 2013, left in 2017 to pursue my Ph.D. in Economics, and returned as a Research Economist in 2024.
-
-<h2>My Work at the Bank</h2><hr />
-
 Some of my work at the Bank is policy analysis of Mexico's external sector. I monitor and analyze the evolution of trade in North America — the reconfiguration of global supply chains, the effects of tariff announcements and rising trade tensions, and the degree of productive integration between Mexico and the United States — to inform the Bank's assessment of the external environment and its implications for the Mexican economy. Part of this analysis is published in the boxes of the Bank's Quarterly Report listed below. This policy work draws on the same tools as my academic research on firm-level trade, which you can find on the [research page]({{ site.baseurl }}/research/).
 
 <h2>Quarterly Report Boxes</h2><hr />
