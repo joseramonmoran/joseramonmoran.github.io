@@ -1,7 +1,7 @@
 ---
 permalink: /
-title: "José Ramón Morán"
-excerpt: "Research Economist at Banco de México. International trade, global value chains, and trade policy."
+title: "AAA"
+excerpt: "Research Economist at Banco de México."
 author_profile: true
 redirect_from:
   - /about/
