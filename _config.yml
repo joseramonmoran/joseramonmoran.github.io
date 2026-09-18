@@ -12,7 +12,7 @@ site_theme               : "default" # The available themes options are "default
 title                    : "José Ramón Morán"
 title_separator          : "-"
 name                     : &name "José Ramón Morán"
-description              : &description "José Ramón Morán — Research Economist at Banco de México. International trade, global value chains, and trade policy."   # Update this with a general description of your site, this is the default if not overridden by a page
+description              : &description "José Ramón Morán — Research Economist at Banco de México."   # Update this with a general description of your site, this is the default if not overridden by a page
 url                      : https://joseramonmoran.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,7 +24,7 @@ repository               : "joseramonmoran/joseramonmoran.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : # e.g. "profile.png" — drop a square photo in images/ and put its filename here
+  avatar           : "profile.jpeg"
   name             : "José Ramón Morán"
   pronouns         : # example: "she/her"  
   bio              : "Research Economist at Banco de México. International trade, global value chains, and trade policy."
@@ -52,7 +52,7 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "joseramonmoran"
+  github           : # "joseramonmoran"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
