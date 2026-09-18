@@ -30,7 +30,8 @@ To claim preferential tariffs under NAFTA, exporters must comply with rules of o
 
 Firms learn about new destinations through their own export activity. Using Mexican customs data, I document these information spillovers and show that firms use their export experience to refine subsequent market choices. A dynamic model of export supply with learning, in which firms select destinations based on beliefs about profitability, is estimated to recover fixed costs and foreign market profitability. Absent spillovers, the share of Mexican firms exporting beyond the United States would fall by 21.6%.
 
-**[Global Supply Chains and Regional Shocks]({{ site.papersurl }}/SupplyChains_v5.pdf)**, joint with Nadim Elayan
+**Global Supply Chains and Regional Shocks**, joint with Nadim Elayan-Balague
+<br/><i>Draft available upon request</i>
 
 Firms assembling complementary inputs face a trade-off in where to source them: distant suppliers specialize in more distinct products, but their disruptions are less synchronized, and when inputs are complements, failures arriving separately cost more than failures arriving together. Treating COVID-19 as a natural experiment in staggered regional disruption, we compare inputs hit at different times within the same firm. Firms respond along two opposing margins — sourcing from a more common set of regions, while adding backup suppliers for each. We quantify a model of global input sourcing with regionally correlated cost draws and delivery failures to ask how much a change in perceived risk explains the post-2020 nearshoring of Mexican supply chains.
 
