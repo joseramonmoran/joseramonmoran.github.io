@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "AAA"
+title: ""
 excerpt: "Research Economist at Banco de México."
 author_profile: true
 redirect_from:
