@@ -28,11 +28,11 @@ Professional Experience
 
 Research
 ======
-See the [research page]({{ site.baseurl }}/research/) for working papers, work in progress, and abstracts.
+See the [research page]({{ site.baseurl }}/research/) for my working papers and work in progress.
 
 Teaching
 ======
-Instructor at ITAM (Industrial Organization, Winter 2026) and Head Teaching Assistant at the University of Michigan. The [teaching page]({{ site.baseurl }}/teaching/) has the full list and my evaluations.
+Instructor at ITAM and Teaching Assistant at the University of Michigan. The [teaching page]({{ site.baseurl }}/teaching/) has the full list and my evaluations.
 
 Professional Service
 ======
