@@ -27,7 +27,7 @@ author:
   avatar           : "profile.jpeg"
   name             : "José Ramón Morán"
   pronouns         : # example: "she/her"  
-  bio              : "Research Economist at Banco de México. International trade, global value chains, and trade policy."
+  bio              : "Research Economist at Banco de México."
   location         : "Mexico City"
   employer         : "Banco de México"
   uri              : # URL
@@ -65,9 +65,9 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : # "joserramoran"
   lastfm           : # Username
-  linkedin         : # Username — the part after linkedin.com/in/
+  linkedin         : # "joseramonmoran"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
