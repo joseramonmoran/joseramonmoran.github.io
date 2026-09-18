@@ -7,9 +7,17 @@ author_profile: true
 
 {% include base_path %}
 
-{% if site.author.googlescholar %}
-  <div class="wordwrap">You can also find my work on <a href="{{ site.author.googlescholar }}">my Google Scholar profile</a>.</div>
-{% endif %}
+<style>
+  /* Hide the visible page heading; the page title still appears in the browser tab. */
+  .archive .page__title {
+    position: absolute;
+    width: 1px;
+    height: 1px;
+    overflow: hidden;
+    clip: rect(0, 0, 0, 0);
+    white-space: nowrap;
+  }
+</style>
 
 {% for category in site.publication_category %}
   {% assign title_shown = false %}
