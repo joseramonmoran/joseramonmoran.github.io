@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Banco de México"
-permalink: /banco-de-mexico/
+title: "Policy Work"
+permalink: /policy-work/
 author_profile: true
 ---
 
